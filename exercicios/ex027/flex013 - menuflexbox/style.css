@@ -35,7 +35,7 @@ header nav {
     display: flex;
     flex-flow: row wrap;
     justify-content: flex-end;
-    
+
 }
 
 header > nav > a{
@@ -60,4 +60,6 @@ main{
     padding: 10px;
     border-radius: 10px;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.486);
+    width: 650px;
+    margin: auto;
 }
